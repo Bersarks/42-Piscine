@@ -1,0 +1,5 @@
+Credentials cache: API:6B078259-C0C9-4C9C-B0F3-C994140C69E0
+        Principal: otokluog@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Sep 28 18:36:56 2021  Sep 29 04:36:50 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
