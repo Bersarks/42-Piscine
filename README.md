@@ -1,1 +1,1 @@
-In this repo you can see all my pscine experience and works.
+In this repo you can see all my piscine experience and works.
